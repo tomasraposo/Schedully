@@ -1,0 +1,16 @@
+.teamSearch{
+    width: 300px;
+    margin: auto;
+}
+.listContainer{
+    width:100%
+
+}
+.trainerItem{
+    width:98%;
+    margin: auto;
+    margin-top: 20px;
+}
+.trainerDetails{
+    margin-left: 20px;
+}
